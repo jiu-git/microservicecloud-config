@@ -10,4 +10,5 @@ spring:
 ---
 spring:
   profiles: test
+  application:
     name:      microservicecloud-config-te
