@@ -11,4 +11,3 @@ spring:
 spring:
   profiles: test
     name: microservicecloud-config-test
-		
